@@ -46,6 +46,17 @@ Here is the folder structure of this app.
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
 3d-portfolio/
+  |- .git_disabled/
+    |-- gk/
+    |-- hooks/
+    |-- info/
+    |-- objects/
+    |-- refs/
+    |-- config
+    |-- description
+    |-- HEAD
+    |-- index
+    |-- packed-refs
   |- public/
   |- src/
     |-- assets/
@@ -82,11 +93,11 @@ Here is the folder structure of this app.
   |- bun.lock
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
   |- postcss.config.cjs
   |- tailwind.config.ts
   |- tsconfig.json
-  |- tsconfig.tsbuildinfo
   |- vite.config.ts
 ```
 <!--- FOLDER_STRUCTURE_END --->
