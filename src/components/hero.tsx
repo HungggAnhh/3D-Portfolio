@@ -58,7 +58,7 @@ const HeroDesktop = () => {
 
           <div className="mt-5 flex gap-4 pointer-events-auto">
             <a
-              href="/IT-WebDeveloper-Võ Mai Hùng Anh.pdf"
+              href="/CV_Web Developer_Võ Mai Hùng Anh.pdf.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2 bg-[#915eff] text-white rounded-lg hover:bg-purple-700 transition"
@@ -67,7 +67,7 @@ const HeroDesktop = () => {
             </a>
 
             <a
-              href="/IT-WebDeveloper-Võ Mai Hùng Anh.pdf"
+              href="/CV_Web Developer_Võ Mai Hùng Anh.pdf.pdf"
               download
               className="px-5 py-2 border border-white text-white rounded-lg hover:bg-white hover:text-black transition"
             >
@@ -114,7 +114,7 @@ const HeroMobile = () => {
 
         <div className="mt-5 flex flex-wrap gap-3">
           <a
-            href="/IT-WebDeveloper-Võ Mai Hùng Anh.pdf"
+            href="/CV_Web Developer_Võ Mai Hùng Anh.pdf.pdf"
             target="_blank"
             className="px-4 py-2 bg-[#915eff] text-white rounded-lg"
           >
@@ -122,7 +122,7 @@ const HeroMobile = () => {
           </a>
 
           <a
-            href="/IT-WebDeveloper-Võ Mai Hùng Anh.pdf"
+            href="/CV_Web Developer_Võ Mai Hùng Anh.pdf.pdf"
             download
             className="px-4 py-2 border border-white text-white rounded-lg"
           >
